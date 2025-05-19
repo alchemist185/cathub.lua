@@ -1,2 +1,0 @@
-# cathub.lua
-cathub
